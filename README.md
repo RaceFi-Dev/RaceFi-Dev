@@ -6,11 +6,12 @@
 ------------
 
 **GET RACEFI DEV**: https://beta.racefl.io/access/
+
 **HOW TO RUN RACEFI DEV:**
 https://drive.google.com/file/d/1W27CHUDxkWeESkDLlAKyitskern14lx0/view
 
 
 ------------
 
-`Copyright © 2022 racefl.io. All rights reserved.`
+`COPYRIGHT © 2022 RACEFL.IO. ALL RIGHTS RESERVED.`
 
